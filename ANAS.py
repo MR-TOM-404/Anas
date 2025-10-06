@@ -1,2 +1,1 @@
-from SHON9.c
-import SHONA
+from SHON9 import SHONA
