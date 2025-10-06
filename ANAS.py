@@ -1,1 +1,2 @@
-from SHON9 import SHONA
+import SHON9
+SHON9.SHONA()
